@@ -1,0 +1,3 @@
+#ignore config file for pycoin
+/Users/tchristensen/project/pycoin/config.py
+.DS_Store
